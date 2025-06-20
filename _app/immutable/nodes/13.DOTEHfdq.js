@@ -1,0 +1,43 @@
+import{f as d,a as f}from"../chunks/BRvlD9YN.js";import"../chunks/D5hF4q50.js";import{o as H}from"../chunks/BuiDMpFk.js";import{A as I,J as K,B as N,C as e,D as m,I as i,F as g,w as l,G as k,K as J}from"../chunks/Dcm-RTuh.js";import{d as O}from"../chunks/C-zqwFdH.js";import{i as h}from"../chunks/CuRRGoEt.js";import{r as U,s as L,b as Y}from"../chunks/J224mmEL.js";import{t as x,s as w,f as E}from"../chunks/DjyCQ2yY.js";import{i as P}from"../chunks/D1ll56pE.js";function Q(c,r,a,s,p){l(r).toLowerCase()==="mukund"?(e(a,"correct"),setTimeout(()=>{e(s,!1),e(a,"default"),setTimeout(()=>{e(p,!0)},1500)},5e3)):(e(a,"error"),setTimeout(()=>{e(a,"default")},5e3))}var R=d("<h2>Are you sure about that??😔😔😔😔😔<br/>🤔🥲🥲</h2>"),V=d('<img src="https://c.tenor.com/-kHJ5bxUwisAAAAd/tenor.gif" alt="smile" class="gif svelte-1vfb099"/>'),X=d('<div><span class="s-1 svelte-1vfb099">One quick thing before the final stage.</span> <label for="fav">Who is the greatest sibling ever: (really think hard about this)</label> <input type="text" class="svelte-1vfb099"/> <button class="svelte-1vfb099">Submit</button> <!> <!></div>'),Z=(c,r,a)=>{e(r,!1),setTimeout(()=>{e(a,!0)},1600)},C=(c,r)=>{e(r,"error"),setTimeout(()=>{e(r,"default")},2e3)},tt=(c,r)=>{e(r,"error"),setTimeout(()=>{e(r,"default")},2e3)},et=d(`<div><h1>Final Stage</h1> <img src="image.png" alt="placeholder"/> <br/> Which laptop is this homescreen of? <div style="display: flex; gap: 24px; justify-content: center; margin-top: 32px;"><button style="
+					text-align: center;
+						width: 120px;
+						height: 90px;
+						border-radius: 16px;
+						border: 2px solid var(--color2);
+						background: rgba(255,255,255,0.18);
+						backdrop-filter: blur(12px);
+						box-shadow: 0 2px 16px 0 #fff3, 0 0 16px 2px var(--color2);
+						color: #3a0066;
+						font-size: 1.1rem;
+						font-weight: 700;
+						cursor: pointer;
+						transition: transform 0.18s, box-shadow 0.3s, border-color 0.3s;
+					" class="svelte-1vfb099">Mac</button> <button style="
+					text-align: center;
+						width: 120px;
+						height: 90px;
+						border-radius: 16px;
+						border: 2px solid var(--color2);
+						background: rgba(255,255,255,0.18);
+						backdrop-filter: blur(12px);
+						box-shadow: 0 2px 16px 0 #fff3, 0 0 16px 2px var(--color2);
+						color: #3a0066;
+						font-size: 1.1rem;
+						font-weight: 700;
+						cursor: pointer;
+						transition: transform 0.18s, box-shadow 0.3s, border-color 0.3s;
+					" class="svelte-1vfb099">Linux</button> <button style="
+					text-align: center;
+						width: 120px;
+						height: 90px;
+						border-radius: 16px;
+						border: 2px solid var(--color2);
+						background: rgba(255,255,255,0.18);
+						backdrop-filter: blur(12px);
+						box-shadow: 0 2px 16px 0 #fff3, 0 0 16px 2px var(--color2);
+						color: #3a0066;
+						font-size: 1.1rem;
+						font-weight: 700;
+						cursor: pointer;
+						transition: transform 0.18s, box-shadow 0.3s, border-color 0.3s;
+					" class="svelte-1vfb099">Windows</button></div></div>`),rt=d('<div class="container svelte-1vfb099" style="position: absolute;">Check the office.</div>'),ot=d('<video autoplay loop playsinline="" reverse="" style="position: fixed; left: 0; top: 0; width: 100vw; height: 100vh; object-fit: cover; z-index: -1;"><source src="https://cdn.pixabay.com/video/2021/07/01/79764-570718544_large.mp4" type="video/mp4"/> Your browser does not support the video tag.</video> <main class="svelte-1vfb099"><!> <!> <!></main>',3);function pt(c,r){I(r,!1);let a=m(""),s=m("default"),p=m(!1),y=m(!1),A=m(!1);H(()=>{setTimeout(()=>{e(p,!0)},100)}),P();var z=ot(),S=K(z);S.muted=!0;var W=i(S,2),j=g(W);{var M=o=>{var t=X(),v=i(g(t),4);U(v);var u=i(v,2);u.__click=[Q,a,s,p,y];var b=i(u,2);{var T=n=>{var _=R();f(n,_)};h(b,n=>{l(s)==="error"&&n(T)})}var D=i(b,2);{var G=n=>{var _=V();x(1,_,()=>w,()=>({duration:500})),f(n,_)};h(D,n=>{l(s)==="correct"&&n(G)})}k(t),J(()=>L(t,1,`container ${l(s)??""}`,"svelte-1vfb099")),Y(v,()=>l(a),n=>e(a,n)),x(1,t,()=>w,()=>({duration:3500})),x(2,t,()=>w,()=>({duration:1500})),f(o,t)};h(j,o=>{l(p)&&o(M)})}var F=i(j,2);{var $=o=>{var t=et(),v=i(g(t),6),u=g(v);u.__click=[Z,y,A];var b=i(u,2);b.__click=[C,s];var T=i(b,2);T.__click=[tt,s],k(v),k(t),J(()=>L(t,1,`container ${l(s)??""}`,"svelte-1vfb099")),x(3,t,()=>E,()=>({y:"100%",duration:3e3})),f(o,t)};h(F,o=>{l(y)&&o($)})}var q=i(F,2);{var B=o=>{var t=rt();x(3,t,()=>w,()=>({duration:2e3})),f(o,t)};h(q,o=>{l(A)&&o(B)})}k(W),f(c,z),N()}O(["click"]);export{pt as component};
